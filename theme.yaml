@@ -1,0 +1,8 @@
+name: 'Craig''s Resume'
+description: 'CV Theme implemented by Chris Evans'
+author: 'Chris Evans'
+homepage: 'https://craigsjoberg.com'
+code: ''
+form: fields.yaml
+require:
+    - devinx.contactus

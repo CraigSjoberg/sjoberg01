@@ -1,0 +1,31 @@
+tabs:
+  fields:
+
+    ####################################################
+    # Tab: Info
+    ####################################################
+
+    site_name:
+      tab: Info
+      label: Website Name
+      type: text
+      default: Craig Sjoberg | Financial Industry Operations Manager
+
+    site_author:
+      tab: Info
+      label: Author
+      type: text
+      default: Chris Evans
+
+    description:
+      tab: Info
+      label: Description
+      type: textarea
+      default: My name is Craig Sjoberg, and I'm seeking the office of Financial Industry Operations Manager.
+
+    keywords:
+      tab: Info
+      label: Keywords
+      type: taglist
+      separator: comma
+      default: finance, IT, IT Security, IT Management, Banking
